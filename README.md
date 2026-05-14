@@ -5,8 +5,8 @@ A chatbot built with [Streamlit](https://streamlit.io/) and [Ollama](https://oll
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/chat-with-nick.git
-cd chat-with-nick
+git clone git@github.com:vigneshavmm/NIC-works.git
+cd NIC-works
 
 python -m venv venv
 source venv/bin/activate
